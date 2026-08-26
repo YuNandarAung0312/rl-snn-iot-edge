@@ -1,5 +1,5 @@
 # rl-snn-iot-edge
-**RL-SNN-IoT: Reinforcement Learning-Based Optimization of Spiking Neural Networks for Resource-Constrained IoT Edge Devices**
+**RL-SNN-Edge: Reinforcement Learning-Based Optimization of Spiking Neural Networks for Resource-Constrained Edge/IoT Devices**
 
 This project investigates hardware-aware optimization of Spiking Neural Networks (SNNs) for resource-constrained IoT edge devices.
 
